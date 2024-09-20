@@ -4,3 +4,6 @@
 
 详细使用教程及Api请见官方文档：https://pro.autojs.org/docs/#/zh-cn/thirdPartyPlugins?id=pytorch%e6%8f%92%e4%bb%b6
 
+
+releases下载
+https://github.com/hicms/Pytorch-AjPlugin/releases
